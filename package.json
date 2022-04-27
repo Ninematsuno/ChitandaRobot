@@ -1,0 +1,15 @@
+{
+  "name": "node-wallhaven-bot",
+  "version": "1.0.0",
+  "description": "A wallpaper telegram bot based on NodeJS and Wallhaven's API",
+  "main": "bot.js",
+  "scripts": {
+    "start" : "node bot.js"
+  },
+  "author": "Yash-Garg",
+  "license": "GPL",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
